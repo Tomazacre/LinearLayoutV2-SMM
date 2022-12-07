@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Salvador [Wes-K] Mendez </string>
+    <string name="yellow_star">Yellow star</string>
+
+    <string name="bio">
+        Hola, mi nombre es Wes-K.
+        \n\nSoy un estudiante de produccion musical y artes visuales.
+        \n\nMe gusta disenar cada beat y componerlo con una melodia para tener al final una base o instrumental bien estructurada.
+        \nY en lo personal a mi me gusta escribir una letra para esa instrumental para cantarla y grabarla e ir armando una cancion poco a poco.
+        \n\nOtro aspecto que me gusta hacer al momento de hacer musica es la produccion que hay despues de tener instrumental y voz, ya que esta es la mas importante porque es como va a terminar sonando tu rolita.
+        \n\n La musica es vida.. \n\n
+    </string>
+    <string name="what_is_your_nickname">What is your nickname</string>
+</resources>
